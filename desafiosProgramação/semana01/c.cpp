@@ -19,5 +19,14 @@ int main()
 
     /* sempre vai haver pelo menos uma consulta do tipo 2 */
 
+    while (q--)
+    {
+        int t, x;
+        cin >> t >> x;
+
+        
+    }
+    
     return 0;
 }
+
